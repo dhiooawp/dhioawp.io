@@ -1,0 +1,33 @@
+body{
+    background-color: #ABC4AA;
+    background-attachment: fixed;
+    border: 2px solid #A9907E ;
+    border-width: 5px;
+    padding: 40px;
+    border-radius: 25px;
+    margin: 90px;
+    outline: 5px solid #F3DEBA;
+    outline-offset: 10px;
+}
+h1{
+    text-align: center;
+    border: 2px solid #F3DEBA ;
+    border-width: 2px;
+    padding: 15px;
+    border-radius: 20px;
+    margin: 90px;
+}
+h3{
+    background-color: #F3DEBA;
+    border: 2px solid #A9907E;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-indent: 48px;
+    padding: 10px;
+}
+div{
+    text-align: center;
+}
+button{
+    text-align: center;
+    padding: 10px;
+}
